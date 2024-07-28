@@ -65,10 +65,10 @@ https://andy.otelli.xyz/api/v1/client/subscribe?token=90d2526059fb06529d8702667a
 
   > 直接看图，一眼就明白了
 
-|                                                              |                                                              |                                                              |
+| ![image-20240727223442028](Sandy-cloud.assets/image-20240727223442028.png) | ![image-20240727223728490](Sandy-cloud.assets/image-20240727223728490.png) | ![image-20240727223951833](Sandy-cloud.assets/image-20240727223951833.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![image-20240727223442028](Sandy-cloud.assets\image-20240727223442028.png) | ![image-20240727223728490](Sandy-cloud.assets\image-20240727223728490.png) | ![image-20240727223951833](Sandy-cloud.assets\image-20240727223951833.png) |
-| ![image-20240727225502040](Sandy-cloud.assets\image-20240727225502040.png) | ![image-20240727225718158](Sandy-cloud.assets\image-20240727225718158.png) |                                                              |
+| ![image-20240727225502040](Sandy-cloud.assets/image-20240727225502040.png) | ![image-20240727225718158](Sandy-cloud.assets/image-20240727225718158.png) |                                                              |
+|                                                              |                                                              |                                                              |
 
 
 
@@ -122,7 +122,7 @@ https://andy.otelli.xyz/api/v1/client/subscribe?token=90d2526059fb06529d8702667a
 | <img src="Sandy-cloud.assets\image-20240727192017619.png" alt="image-20240727192017619" style="zoom:67%;" /> | <img src="Sandy-cloud.assets\image-20240727192103915.png" alt="image-20240727192103915" style="zoom:67%;" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <img src="E:\vpn-tools-study\Sandy-cloud.assets\image-20240727192144941.png" alt="image-20240727192144941" style="zoom:67%;" /> | <img src="Sandy-cloud.assets\image-20240727192255706.png" alt="image-20240727192255706" style="zoom:67%;" /> |
-| <img src="Sandy-cloud.assets\image-20240727192357501.png" alt="image-20240727192357501" style="zoom:67%;" /> | <img src="Sandy-cloud.assets\image-20240727192440110.png" alt="image-20240727192440110" style="zoom:67%;" /> |
+| <img src="Sandy-cloud.assets/image-20240727192357501.png" alt="image-20240727192357501" style="zoom:67%;" /> | <img src="Sandy-cloud.assets\image-20240727192440110.png" alt="image-20240727192440110" style="zoom:67%;" /> |
 | <img src="Sandy-cloud.assets\image-20240727192550558.png" alt="image-20240727192550558" style="zoom:67%;" /> | <img src="Sandy-cloud.assets\image-20240727193805993.png" alt="image-20240727193805993" style="zoom:67%;" /> |
 
 
@@ -135,7 +135,7 @@ https://andy.otelli.xyz/api/v1/client/subscribe?token=90d2526059fb06529d8702667a
 
 **github：**https://github.com/v2fly/v2ray-core/releases 
 
-![image-20240728144022640](Sandy-cloud.assets\image-20240728144022640.png)
+![image-20240728144022640](Sandy-cloud.assets/image-20240728144022640.png)
 
 ### 4.2 V2Ray IOS/Android:
 
@@ -155,13 +155,13 @@ https://qianghub.com/what-to-do-after-bypass-gfw/
 
 
 
-![image-20240728002700128](Sandy-cloud.assets\image-20240728002700128.png)
+![image-20240728002700128](Sandy-cloud.assets/image-20240728002700128.png)
 
-![image-20240728002744109](Sandy-cloud.assets\image-20240728002744109.png)
+![image-20240728002744109](Sandy-cloud.assets/image-20240728002744109.png)
 
-![image-20240728002855039](Sandy-cloud.assets\image-20240728002855039.png)
+![image-20240728002855039](Sandy-cloud.assets/image-20240728002855039.png)
 
-![image-20240728003105833](Sandy-cloud.assets\image-20240728003105833.png)
+![image-20240728003105833](Sandy-cloud.assets/image-20240728003105833.png)
 
 
 
