@@ -1,0 +1,145 @@
+{
+  "version": "4.4.1.0",
+  "configs": [
+    {
+      "server": "",
+      "server_port": 8388,
+      "password": "",
+      "method": "chacha20-ietf-poly1305",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "xkkkw_1.niceapi.cc",
+      "server_port": 43436,
+      "password": "5169602d-f079-4f61-8d9f-cf9c506599dc",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "VIP-US-02",
+      "group": "https://andy.otelli.xyz/api/v1/client/subscribe?token=bc7c025b8e05004543014d8b5dfd5cd6",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "xkkkw_1.niceapi.cc",
+      "server_port": 43437,
+      "password": "5169602d-f079-4f61-8d9f-cf9c506599dc",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "VIP-US-01",
+      "group": "https://andy.otelli.xyz/api/v1/client/subscribe?token=bc7c025b8e05004543014d8b5dfd5cd6",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "xkkkw_1.niceapi.cc",
+      "server_port": 43438,
+      "password": "5169602d-f079-4f61-8d9f-cf9c506599dc",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "VIP_HK_02",
+      "group": "https://andy.otelli.xyz/api/v1/client/subscribe?token=bc7c025b8e05004543014d8b5dfd5cd6",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "xkkkw_1.niceapi.cc",
+      "server_port": 43439,
+      "password": "5169602d-f079-4f61-8d9f-cf9c506599dc",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "VIP_HK_01",
+      "group": "https://andy.otelli.xyz/api/v1/client/subscribe?token=bc7c025b8e05004543014d8b5dfd5cd6",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "xkkkw_1.niceapi.cc",
+      "server_port": 43435,
+      "password": "5169602d-f079-4f61-8d9f-cf9c506599dc",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "SGAK-2",
+      "group": "https://andy.otelli.xyz/api/v1/client/subscribe?token=bc7c025b8e05004543014d8b5dfd5cd6",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "xkkkw_1.niceapi.cc",
+      "server_port": 43434,
+      "password": "5169602d-f079-4f61-8d9f-cf9c506599dc",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "VIP-JP-01",
+      "group": "https://andy.otelli.xyz/api/v1/client/subscribe?token=bc7c025b8e05004543014d8b5dfd5cd6",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    },
+    {
+      "server": "xkkkw_1.niceapi.cc",
+      "server_port": 43433,
+      "password": "5169602d-f079-4f61-8d9f-cf9c506599dc",
+      "method": "chacha20-ietf-poly1305",
+      "remarks": "HKSM-V2",
+      "group": "https://andy.otelli.xyz/api/v1/client/subscribe?token=bc7c025b8e05004543014d8b5dfd5cd6",
+      "timeout": 5,
+      "warnLegacyUrl": false
+    }
+  ],
+  "onlineConfigSource": [
+    "https://andy.otelli.xyz/api/v1/client/subscribe?token=bc7c025b8e05004543014d8b5dfd5cd6"
+  ],
+  "strategy": "",
+  "index": 0,
+  "global": false,
+  "enabled": false,
+  "shareOverLan": false,
+  "firstRun": false,
+  "localPort": 1080,
+  "portableMode": true,
+  "showPluginOutput": false,
+  "pacUrl": "",
+  "useOnlinePac": false,
+  "secureLocalPac": true,
+  "regeneratePacOnUpdate": true,
+  "autoCheckUpdate": false,
+  "checkPreRelease": false,
+  "skippedUpdateVersion": "",
+  "isVerboseLogging": false,
+  "isIPv6Enabled": false,
+  "generateLegacyUrl": false,
+  "geositeUrl": "",
+  "geositeSha256sumUrl": "",
+  "geositeDirectGroups": [
+    "private",
+    "cn",
+    "geolocation-!cn@cn"
+  ],
+  "geositeProxiedGroups": [
+    "geolocation-!cn"
+  ],
+  "geositePreferDirect": false,
+  "userAgent": "ShadowsocksWindows/$version",
+  "logViewer": {
+    "topMost": false,
+    "wrapText": false,
+    "toolbarShown": false,
+    "Font": "Consolas, 8pt",
+    "BackgroundColor": "Black",
+    "TextColor": "White"
+  },
+  "proxy": {
+    "useProxy": false,
+    "proxyType": 0,
+    "proxyServer": "",
+    "proxyPort": 0,
+    "proxyTimeout": 3,
+    "useAuth": false,
+    "authUser": "",
+    "authPwd": ""
+  },
+  "hotkey": {
+    "SwitchSystemProxy": "",
+    "SwitchSystemProxyMode": "",
+    "SwitchAllowLan": "",
+    "ShowLogs": "",
+    "ServerMoveUp": "",
+    "ServerMoveDown": "",
+    "RegHotkeysAtStartup": false
+  },
+  "WebProxy": null
+}

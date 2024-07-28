@@ -1,0 +1,17 @@
+2024-07-27 22:32:56.4504|INFO|Shadowsocks.Controller.I18N|Current language is: zh-CN
+2024-07-27 22:32:57.4727|INFO|Shadowsocks.Controller.ShadowsocksController|WPF Localization Extension|Current culture: zh-CN
+2024-07-27 22:32:58.0551|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.4.1.0)
+2024-07-27 22:33:08.5493|INFO|Shadowsocks.Controller.ShadowsocksController|WPF Localization Extension|Current culture: zh-CN
+2024-07-27 22:33:08.7009|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.4.1.0)
+2024-07-27 22:34:53.9564|INFO|Shadowsocks.Controller.I18N|Current language is: zh-CN
+2024-07-27 22:38:20.8308|INFO|Shadowsocks.Controller.ShadowsocksController|WPF Localization Extension|Current culture: zh-CN
+2024-07-27 22:38:21.3325|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.4.1.0)
+2024-07-27 22:38:25.7287|INFO|Shadowsocks.Controller.ShadowsocksController|updated 7 server from https://andy.otelli.xyz/api/v1/client/subscribe?token=bc7c025b8e05004543014d8b5dfd5cd6
+2024-07-27 22:38:25.7417|INFO|Shadowsocks.Controller.ShadowsocksController|WPF Localization Extension|Current culture: zh-CN
+2024-07-27 22:38:25.8923|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.4.1.0)
+2024-07-28 02:09:14.2148|INFO|Shadowsocks.Program|controller stopped
+2024-07-28 02:09:14.3036|INFO|Shadowsocks.Program|os suspend
+2024-07-28 10:49:46.0437|INFO|Shadowsocks.Program|os wake up
+2024-07-28 10:49:56.1816|INFO|Shadowsocks.Controller.ShadowsocksController|WPF Localization Extension|Current culture: zh-CN
+2024-07-28 10:49:57.2766|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.4.1.0)
+2024-07-28 10:49:58.1543|INFO|Shadowsocks.Program|controller started
