@@ -111,9 +111,9 @@ https://andy.otelli.xyz/api/v1/client/subscribe?token=90d2526059fb06529d8702667a
 
 ### 3.1 Clash PC端 :  
 
-| <img src="Sandy-cloud.assets\image-20240727181410192.png" alt="image-20240727181410192"  /> | ![image-20240727181954186](Sandy-cloud.assets\image-20240727181954186.png) |
+| <img src="Sandy-cloud.assets\image-20240727181410192.png" alt="image-20240727181410192"  /> | <img src="Sandy-cloud.assets\image-20240727181954186.png" alt="image-20240727181954186"  /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![image-20240727190633963](Sandy-cloud.assets\image-20240727190633963.png) | ![image-20240727190822151](Sandy-cloud.assets\image-20240727190822151.png) |
+| <img src="Sandy-cloud.assets\image-20240727190633963.png" alt="image-20240727190633963"/> | <img src="Sandy-cloud.assets\image-20240727190822151.png" alt="image-20240727190822151"/> |
 
 
 
@@ -121,7 +121,7 @@ https://andy.otelli.xyz/api/v1/client/subscribe?token=90d2526059fb06529d8702667a
 
 | <img src="Sandy-cloud.assets\image-20240727192017619.png" alt="image-20240727192017619" style="zoom:67%;" /> | <img src="Sandy-cloud.assets\image-20240727192103915.png" alt="image-20240727192103915" style="zoom:67%;" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="E:\vpn-tools-study\Sandy-cloud.assets\image-20240727192144941.png" alt="image-20240727192144941" style="zoom:67%;" /> | <img src="Sandy-cloud.assets\image-20240727192255706.png" alt="image-20240727192255706" style="zoom:67%;" /> |
+| <img src="Sandy-cloud.assets\image-20240727192144941.png" alt="image-20240727192144941" style="zoom:67%;" /> | <img src="Sandy-cloud.assets\image-20240727192255706.png" alt="image-20240727192255706" style="zoom:67%;" /> |
 | <img src="Sandy-cloud.assets/image-20240727192357501.png" alt="image-20240727192357501" style="zoom:67%;" /> | <img src="Sandy-cloud.assets\image-20240727192440110.png" alt="image-20240727192440110" style="zoom:67%;" /> |
 | <img src="Sandy-cloud.assets\image-20240727192550558.png" alt="image-20240727192550558" style="zoom:67%;" /> | <img src="Sandy-cloud.assets\image-20240727193805993.png" alt="image-20240727193805993" style="zoom:67%;" /> |
 
