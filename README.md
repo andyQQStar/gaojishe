@@ -2,15 +2,9 @@
 
 ## 1、快速开始使用
 
-下载客户端吗，我这里推荐SS小火箭（shadowsocks），配置订阅链接，搞定！！！！  就这么简单。
+下载客户端吗，我这里推荐SS小火箭（shadowsocks），配置订阅链接，搞定！！！！  就这么简
 
-**工具在哪里下？**
-
-来，我帮你提前整理好了：
-
-链接：https://pan.baidu.com/s/1Ryx9EKEqOe2Th3lUIYSxtg 
-提取码：v12e 
---来自百度网盘超级会员V4的分享
+链接：https://pan.quark.cn/list#/list/all
 
 
 
@@ -22,15 +16,20 @@ https://andy.otelli.xyz/api/v1/client/subscribe?token=90d2526059fb06529d8702667a
 
 注意：链接经常会进行更换，如果发现无法访问，请联系客服获取新的订阅链接！
 
-
++++++++/
 
 **如何获取免费订阅节点？**
 
 添加客服，不定期的分享免费节点，分享福利好资源
 
-+ Telegram：https://t.me/gaojishe
++ Telegram：htt
+
++ ​                                      ps://t.me/gaojishezx.cxDF
+
+  "Po-------=-0000000"7/
 
 + 微信：ban_ban__jun
+
 + QQ：2468214679
 
 |                                                              |                                                              |
